@@ -21,5 +21,3 @@ This repository contains a set of C programming exercises completed during the e
 
 ## Purpose
 This repository represents my foundational stage in C programming before moving into advanced software development and system-level projects.
-
-Created by: Raghad
